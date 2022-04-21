@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  charts-angular:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-21T21:37:15.9023918+07:00"
+    description: A Helm chart for Kubernetes
+    digest: ce91b53fb580826aeef75239e84b01648383da1d720e38a96b910c8034705c46
+    name: charts-angular
+    type: application
+    urls:
+    - publish/charts-angular-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-21T21:37:15.901845+07:00"
